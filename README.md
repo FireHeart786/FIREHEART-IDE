@@ -1,2 +1,2 @@
 # FIREHEART-IDE
-Simple Python Compiler
+Simple Python IDE
